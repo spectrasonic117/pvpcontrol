@@ -75,4 +75,4 @@ jobs:
       - name: Publish package
         run: ./gradlew publish
         env:
-          GITHUB_TOKEN: ${{ secrets.APP_TOKEN }}
+          APP_TOKEN: ${{ secrets.GITHUB_TOKEN }}
