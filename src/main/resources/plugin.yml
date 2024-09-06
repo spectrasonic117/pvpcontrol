@@ -1,5 +1,5 @@
 name: pvpcontrol
-version: "1.6"
+version: "1.7"
 main: com.spectrasonic.pvpcontrol.Main
 api-version: "1.21"
 commands:
