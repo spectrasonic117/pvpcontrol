@@ -1,0 +1,8 @@
+name: pvpcontrol
+version: '1.4'
+main: com.spectrasonic.pvpcontrol.Main
+api-version: '1.21'
+commands:
+  pvpcontrol:
+    description: Activa o desactiva el PvP de manera global.
+    usage: /pvp <on|off>
